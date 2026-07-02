@@ -20,7 +20,7 @@ class NumpyEncoder(json.JSONEncoder):
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})   # Enable CORS
 
-# Initialize the Llama API
+# Initialize Llama API
 llama = LlamaAPI("LL-I1DzCbApeYAXATLa2xHjuBgsZoedmFUPPTfuQ49zXHnJnepZEskN2NaOEClxvgt0")
 
 # Load the models and tokenizers once at startup
@@ -134,4 +134,4 @@ def detect_mental_illness_route():
     return jsonify(response)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5500, debug=True)
+    app.run(host='0.0.0.0', port=5500, debug=True) 
