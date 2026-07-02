@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "OCD",
+      "image": "ocd.png",
+      "description": "Obsessive-Compulsive Disorder (OCD) is a chronic mental health condition marked by persistent, intrusive thoughts known as obsessions and repetitive behaviors or mental acts called compulsions.\n\n Individuals with OCD feel compelled to perform these rituals in an attempt to alleviate the distress caused by their obsessions, even though these actions often provide only temporary relief and may not be logically connected to the feared outcome.\n\nOCD can significantly disrupt daily life, affecting personal relationships, work, and overall quality of life. Effective treatments typically involve a combination of Cognitive Behavioral Therapy (CBT), especially Exposure and Response Prevention (ERP), and medications such as selective serotonin reuptake inhibitors (SSRIs).\n \nFew Symptoms of OCD which are noticed commonly are:-\n\n- Excessive concern about germs, dirt, or illness.\n- Extreme discomfort if objects are not aligned or symmetrical.\n- Repeatedly washing hands or cleaning surfaces.\n- Checking doors, locks, appliances, or personal belongings multiple times.\n- Performing tasks a specific number of times or counting objects.\n- Placing items in a particular order or symmetry."
+    },
+    {
+      "id": 2,
+      "title": "Disruptive Behaviour",
+      "image": "anger.png",
+      "description":" Disruptive behavior refers to actions that significantly interfere with the normal functioning of a setting, such as a classroom, workplace, or social environment. It includes behaviors like frequent temper tantrums, defiance, aggression towards others, and deliberate attempts to annoy or upset people. \n\n These behaviors often disrupt the activities and well-being of others, leading to conflicts and difficulties in maintaining productive and harmonious interactions. Disruptive behavior can be symptomatic of underlying issues, such as emotional or behavioral disorders, and often requires targeted interventions and support to address the root causes and promote more positive behavior.\n \nFew Symptoms of disruptive behaviour which are noticed commonly are:- \n- Intense emotional outbursts, often disproportionate to the situation.\n- Persistent refusal to follow rules or instructions from authority figures.\n- Physical or verbal aggression towards others, including hitting, shouting, or threatening.\n- Regularly arguing with authority figures or peers.\n- Frequently blaming others for one's own mistakes or misbehavior.\n- Acting without thinking about the consequences, often leading to disruptive actions."
+    },
+    {
+      "id": 3,
+      "title": "Anxiety",
+      "image": "anxiety.png",
+      "description": "Anxiety disorders are characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with one's daily activities. It can manifest as persistent feelings of apprehension or dread, often accompanied by physical symptoms such as a racing heart, sweating, trembling, and shortness of breath.\n\n Anxiety can interfere with daily activities, making it difficult to concentrate, sleep, or engage in social interactions. While occasional anxiety is a normal response to stress, chronic or intense anxiety that affects one's quality of life may indicate an anxiety disorder. Effective treatments, including therapy and medication, can help manage and reduce symptoms, enabling individuals to lead more balanced and fulfilling lives."
+    },
+    {
+      "id": 4,
+      "title": "Drug Abuse",
+      "image": "da.png",
+      "description": "Drug abuse is the recurrent use of illegal drugs, or the misuse of prescription or over-the-counter drugs with negative consequences."
+    },
+    {
+      "id": 5,
+      "title": "Depression",
+      "image": "depressed.png",
+      "description": "Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest."
+    },
+    {
+      "id": 6,
+      "title": "Eating Disorder",
+      "image": "eating.png",
+      "description": "Eating disorders are characterized by a preoccupation with food, body weight, and shape, leading to dangerous and often harmful behaviors."
+    },
+    {
+      "id": 7,
+      "title": "PTSD",
+      "image": "ptsd.png",
+      "description": "Post-traumatic stress disorder (PTSD) is a mental health condition triggered by experiencing or witnessing a terrifying event."
+    },
+    {
+      "id": 8,
+      "title": "Schizophrenia",
+      "image": "szp.png",
+      "description": "Schizophrenia is a serious mental disorder in which people interpret reality abnormally."
+    }
+  ]
+  

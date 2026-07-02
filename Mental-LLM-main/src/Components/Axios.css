@@ -1,0 +1,54 @@
+/* MentalHealthPredictor.css */
+
+.card-custom {
+  display: grid;
+  width: 100%;
+  gap: 2rem;
+  }
+  
+  .card-body-custom {
+    padding: 20px;
+    background-color: #ececec;
+    border-radius: 1rem;
+    width: 97%;
+  }
+  
+  .card-title-custom {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .card-text-custom {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .btn-custom {
+    padding: 17px 40px;
+  border-radius: 1rem;
+  cursor: pointer;
+  width: 100%;
+  border: 0;
+  background-color: rgb(6, 33, 50);
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #ececec;
+  margin-top: 1rem;
+  transition: all 0.5s ease;
+  border : 1px solid #ececec
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+    letter-spacing: 3px;
+  }
+ 
+.confi-text{
+  color: black;
+  padding-top: 1rem;
+  font-weight: 500;
+  text-align: left;
+}

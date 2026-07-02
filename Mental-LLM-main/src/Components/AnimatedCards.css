@@ -1,0 +1,29 @@
+/* AnimatedCards.css */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-self: center;
+  }
+  
+  .section-info {
+    width: 400px;
+    min-height: 350px;
+    background-color: #D9D9D9;
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border-radius: 1rem;
+    color: #505050;
+    margin: 1rem 2rem;
+    cursor: pointer;
+    border: 2px, rgba(0, 0, 0, 1);
+    gap: 2rem;
+  }
+  .section-info:hover {
+    background-color: aliceblue;
+  }
